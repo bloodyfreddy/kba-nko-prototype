@@ -28,6 +28,7 @@
 						</section>
 						<section class="book-dark">
 							<div class="pa7-container books">
+							<h4 class="book-name">Некоммерческие организации</h4>
 							<div class="raw">
 								<div class="col-md-3">
 									<img src="http://static1.ozone.ru/multimedia/books_covers/1001118074.jpg" alt="">
@@ -51,7 +52,7 @@
 						</section>
 						<section class="book-light">
 							<div class="pa7-container books">
-							
+							<h4 class="book-name">Некоммерческие организации</h4>
 								<div class="raw">
 								<div class="col-md-3">
 									<img src="http://www.ngo-books.narod.ru/pictures/0510.jpg" alt="">
