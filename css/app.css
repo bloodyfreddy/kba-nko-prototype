@@ -9,6 +9,10 @@ p {
 	line-height: 26px;
 }
 
+.clear {
+	clear:both;
+}
+
 #bs-example-navbar-collapse-1 {
 	line-height: 60px;
 	height: 600px;
@@ -213,4 +217,20 @@ input[type="submit"] {
 	width: 90%;
 	margin: auto;
 	padding-bottom: 30px;
+}
+
+/*books-page*/
+.container.pa7-content-box.books {
+	padding: 0;
+}
+
+.pa7-container.books {
+	background-color: transparent;
+}
+.books-intro, .book-light {
+	background-color: #fafaf7;
+}
+
+.book-dark {
+	background-color: #e4e2d3;
 }
